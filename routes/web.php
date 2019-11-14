@@ -12,5 +12,5 @@
 */
 
 Route::get('/', function () {
-    return view('welcome Cesar Ingenieria de Software');
+    return view('welcome');
 });
